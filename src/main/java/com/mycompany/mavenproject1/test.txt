@@ -1,0 +1,2 @@
+AccountNum:PIN:Name:Balance
+14332:1234:Adrian Penchev:150000.00:0.00
